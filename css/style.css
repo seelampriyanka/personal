@@ -7,10 +7,7 @@ body{
 	color:#000;
 	font-family: 'Open Sans', sans-serif;
 }
-#wrapper{
-	width: 900px;
-	margin: 20px auto;
-}
+
 .normal-font {
 	font-weight:600;
 }
